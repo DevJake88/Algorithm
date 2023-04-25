@@ -40,6 +40,7 @@
 | 콜라문제                | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) | 링크                                                 | [소스코드](./src/programmers/lv1/Programmers_콜라문제.java)  |             |
 | 크기가 작은 부분 문자열 | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | 링크                                                 | [소스코드](./src/programmers/lv1/Programmers_크기가작은부분문자열.java) |             |
 | 푸드파이트 대회         | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | 링크                                                 | [소스코드](./src/programmers/lv1/Programmers_푸드파이트대회.java) |             |
+| 기사단원의 무기         | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | [링크](https://blog.naver.com/dev_jake/223084443222) | [소스코드](./src/programmers/lv1/Programmers_기사단원의무기.java) | 약수 개수   |
 
 
 
