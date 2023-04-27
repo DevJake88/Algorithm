@@ -42,6 +42,7 @@
 | 푸드파이트 대회         | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | 링크                                                 | [소스코드](./src/programmers/lv1/Programmers_푸드파이트대회.java) |             |
 | 기사단원의 무기         | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | [링크](https://blog.naver.com/dev_jake/223084443222) | [소스코드](./src/programmers/lv1/Programmers_기사단원의무기.java) | 약수 개수   |
 | 대충 만든 자판          | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/160586) | [링크](https://blog.naver.com/dev_jake/223085389791) | [소스코드](./src/programmers/lv1/Programmers_대충만든자판.java) | 문자열      |
+| 문자열 나누기           | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | [링크](https://blog.naver.com/dev_jake/223086529855) | [소스코드](./src/programmers/lv1/Programmers_문자열나누기.java) | 문자열      |
 
 
 
