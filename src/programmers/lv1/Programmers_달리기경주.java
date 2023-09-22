@@ -1,22 +1,35 @@
 package programmers.lv1;
 
 import java.util.Arrays;
+import java.util.HashMap;
 
 public class Programmers_달리기경주 {
 	public String[] solution(String[] players, String[] callings) {
 		String[] answer = players.clone();
-        
-        for(int i=0; i<callings.length; i++) {
-        	for(int j=0; j<answer.length; j++) {
-        		if(callings[i].equals(answer[j])) {
-        			// swap
-        			String temp = answer[j-1];
-        			answer[j-1] = answer[j];
-        			answer[j] = temp;
-        		}
-        	}
-        }
-        System.out.println(Arrays.toString(answer));
+        HashMap<String, Integer> hm = new HashMap<String, Integer>();
+		
+		for(int i=0; i<players.length; i++) {
+			hm.put(players[i], i);
+		}
+		
+		for(int i=0; i<callings.length; i++) {
+			int index = hm.get(callings[i]);
+			
+			// swap
+			String temp = answer[index-1];
+			answer[index-1] = callings[i];
+			answer[index] = temp;
+			
+			// hash map update
+			hm.put(temp, index);
+			hm.put(callings[i], index-1);
+		}
+
+		for(int i=0; i<players.length; i++) {
+			int idx = hm.get(players[i]);
+			answer[idx] = players[i];
+		}
+		
         return answer;
     }
 	
@@ -25,7 +38,9 @@ public class Programmers_달리기경주 {
 		
 		String[] players = {"mumu", "soe", "poe", "kai", "mine"};
 		String[] callings = {"kai", "kai", "mine", "mine"};
-		test.solution(players, callings);
+		
+		String[] result = test.solution(players, callings);
+		System.out.println(Arrays.toString(result));
 	}
 
 }
