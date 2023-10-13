@@ -46,6 +46,7 @@
 | 둘만의 암호               | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | [링크](https://blog.naver.com/dev_jake/223087522411) | [소스코드](./src/programmers/lv1/Programmers_둘만의암호.java) | char, int, String |
 | 나머지가 1이 되는 수 찾기 | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | 링크                                                 | [소스코드](./src/programmers/lv1/Programmers_나머지가1이되는수찾기.java) |                   |
 | 숫자 짝꿍                 | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | 링크                                                 | [소스코드](./src/programmers/lv1/Programmers_숫자짝꿍.java)  | string            |
+| 신고 결과 받기            | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | 링크                                                 | [소스코드](./src/programmers/lv1/Programmers_신고결과받기.java) | set, map          |
 
 
 
