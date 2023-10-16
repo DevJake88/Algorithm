@@ -48,6 +48,7 @@
 | 숫자 짝꿍                 | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | 링크                                                 | [소스코드](./src/programmers/lv1/Programmers_숫자짝꿍.java)  | string            |
 | 신고 결과 받기            | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | 링크                                                 | [소스코드](./src/programmers/lv1/Programmers_신고결과받기.java) | set, map          |
 | 최소직사각형              | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | 링크                                                 | [소스코드](./src/programmers/lv1/Programmers_최소직사각형.java) |                   |
+| 없는 숫자 더하기          | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | 링크                                                 | [소스코드](./src/programmers/lv1/Programmers_없는숫자더하기.java) |                   |
 
 
 
