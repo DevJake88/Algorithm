@@ -50,8 +50,10 @@
 | 최소직사각형              | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | 링크                                                 | [소스코드](./src/programmers/lv1/Programmers_최소직사각형.java) |                   |
 | 없는 숫자 더하기          | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | 링크                                                 | [소스코드](./src/programmers/lv1/Programmers_없는숫자더하기.java) |                   |
 | 부족한 금액 계산하기      | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | 링크                                                 | [소스코드](./src/programmers/lv1/Programmers_부족한금액계산하기.java) |                   |
+| 숫자 문자열과 영단어      | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | 링크                                                 | [소스코드](./src/programmers/lv1/Programmers_숫자문자열과영단어.java) |                   |
 | 요격 시스템               | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/181188) | 링크                                                 | [소스코드](./src/programmers/lv2/Programmers_요격시스템.java) |                   |
 | 두 원 사이의 정수 쌍      | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | 링크                                                 | [소스코드](./src/programmers/lv2/Programmers_두원사이의정수쌍.java) |                   |
+|                           |        |                                                              |                                                      |                                                              |                   |
 
 
 
