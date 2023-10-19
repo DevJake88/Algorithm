@@ -53,7 +53,7 @@
 | 숫자 문자열과 영단어      | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | 링크                                                 | [소스코드](./src/programmers/lv1/Programmers_숫자문자열과영단어.java) |                   |
 | 요격 시스템               | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/181188) | 링크                                                 | [소스코드](./src/programmers/lv2/Programmers_요격시스템.java) |                   |
 | 두 원 사이의 정수 쌍      | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | 링크                                                 | [소스코드](./src/programmers/lv2/Programmers_두원사이의정수쌍.java) |                   |
-|                           |        |                                                              |                                                      |                                                              |                   |
+| 연속된 부분 수열의 합     | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | 링크                                                 | [소스코드](./src/programmers/lv2/Programmers_연속된부분수열의합.java) | 투 포인터         |
 
 
 
