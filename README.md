@@ -59,7 +59,8 @@
 | 두 원 사이의 정수 쌍         | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_두원사이의정수쌍.java) |                   |
 | 연속된 부분 수열의 합        | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_연속된부분수열의합.java) | 투 포인터         |
 | 과제 진행하기                | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_과제진행하기.java) |                   |
-| 광물 캐기                    | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/172927) |                                                      | [소스코드](./src/programmers/lv2/Programmers_광물캐기.java)  |                   |
+| 광물 캐기                    | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_광물캐기.java)  |                   |
+| 리코쳇 로봇                  | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_리코쳇로봇.java) | bfs               |
 
 
 
