@@ -62,6 +62,7 @@
 | 과제 진행하기                | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_과제진행하기.java) |                   |
 | 광물 캐기                    | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_광물캐기.java)  |                   |
 | 리코쳇 로봇                  | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_리코쳇로봇.java) | bfs               |
+| 당구 연습                    | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/169198) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_당구연습.java)  |                   |
 
 
 
