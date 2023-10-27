@@ -6,9 +6,10 @@
 
 | 문제번호  | 난이도 | 링크                                          | 해설 | 풀이                                 | 비고 |
 | --------- | ------ | --------------------------------------------- | ---- | ------------------------------------ | ---- |
-| BOJ_1000  |        | [문제](https://www.acmicpc.net/problem/1000)  | 링크 | [소스코드](./src/boj/BOJ_1000.java)  |      |
-| BOJ_11047 |        | [문제](https://www.acmicpc.net/problem/11047) | 링크 | [소스코드](./src/boj/BOJ_11047.java) |      |
-| BOJ_18108 |        | [문제](https://www.acmicpc.net/problem/18108) | 링크 | [소스코드](./src/boj/BOJ_18108.java) |      |
+| BOJ_1000  |        | [문제](https://www.acmicpc.net/problem/1000)  | -    | [소스코드](./src/boj/BOJ_1000.java)  |      |
+| BOJ_11047 |        | [문제](https://www.acmicpc.net/problem/11047) | -    | [소스코드](./src/boj/BOJ_11047.java) |      |
+| BOJ_18108 |        | [문제](https://www.acmicpc.net/problem/18108) | -    | [소스코드](./src/boj/BOJ_18108.java) |      |
+| BOJ_23971 |        | [문제](https://www.acmicpc.net/problem/23971) | -    | [소스코드](./src/boj/BOJ_23971.java) |      |
 
 
 
