@@ -67,6 +67,7 @@
 | 리코쳇 로봇                  | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_리코쳇로봇.java) | bfs               |
 | 당구 연습                    | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/169198) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_당구연습.java)  |                   |
 | 혼자서 하는 틱택토           | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_혼자서하는틱택토.java) |                   |
+| 미로 탈출                    | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_미로탈출.java)  | bfs               |
 
 
 
