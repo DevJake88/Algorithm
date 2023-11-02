@@ -71,6 +71,7 @@
 | 혼자서 하는 틱택토           | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_혼자서하는틱택토.java) |                      |
 | 미로 탈출                    | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_미로탈출.java)  | bfs                  |
 | 호텔 대실                    | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [링크](https://blog.naver.com/dev_jake/223252673599) | [소스코드](./src/programmers/lv2/Programmers_호텔대실_우선순위큐.java) | 우선순위큐 or 누적합 |
+| 무인도 여행                  | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_무인도여행.java) | dfs                  |
 
 
 
