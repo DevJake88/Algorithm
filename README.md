@@ -61,6 +61,8 @@
 | 두 개 뽑아서 더하기          | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | -                                                    | [소스코드](./src/programmers/lv1/Programmers_두개뽑아서더하기.java) | set                  |
 | 키패드 누르기                | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | -                                                    | [소스코드](./src/programmers/lv1/Programmers_키패드누르기.java) |                      |
 | 크레인 인형뽑기 게임         | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | -                                                    | [소스코드](./src/programmers/lv1/Programmers_크레인인형뽑기게임.java) |                      |
+| 체육복                       | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | -                                                    | [소스코드](./src/programmers/lv1/Programmers_체육복.java)    |                      |
+| 모의고사                     | lv1    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | -                                                    | [소스코드](./src/programmers/lv1/Programmers_모의고사.java)  |                      |
 | 요격 시스템                  | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/181188) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_요격시스템.java) |                      |
 | 두 원 사이의 정수 쌍         | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_두원사이의정수쌍.java) |                      |
 | 연속된 부분 수열의 합        | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_연속된부분수열의합.java) | 투 포인터            |
@@ -72,6 +74,7 @@
 | 미로 탈출                    | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_미로탈출.java)  | bfs                  |
 | 호텔 대실                    | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [링크](https://blog.naver.com/dev_jake/223252673599) | [소스코드](./src/programmers/lv2/Programmers_호텔대실_우선순위큐.java) | 우선순위큐 or 누적합 |
 | 무인도 여행                  | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_무인도여행.java) | dfs                  |
+|                              |        |                                                              |                                                      |                                                              |                      |
 
 
 
