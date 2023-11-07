@@ -10,6 +10,7 @@
 | BOJ_11047 |        | [문제](https://www.acmicpc.net/problem/11047) | -    | [소스코드](./src/boj/BOJ_11047.java) |      |
 | BOJ_18108 |        | [문제](https://www.acmicpc.net/problem/18108) | -    | [소스코드](./src/boj/BOJ_18108.java) |      |
 | BOJ_23971 |        | [문제](https://www.acmicpc.net/problem/23971) | -    | [소스코드](./src/boj/BOJ_23971.java) |      |
+| BOJ_5073  |        | [문제](https://www.acmicpc.net/problem/5073)  | -    | [소스코드](./src/boj/BOJ_5073.java)  |      |
 
 
 
