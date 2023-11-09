@@ -78,6 +78,7 @@
 | 뒤에 있는 큰 수 찾기         | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_뒤에있는큰수찾기.java) |                      |
 | 숫자 변환하기                | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_숫자변환하기.java) | dp                   |
 | 시소 짝꿍                    | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_시소짝꿍.java)  |                      |
+| 택배 배달과 수거하기         | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_택배배달과수거하기.java) | 그리디               |
 
 
 
