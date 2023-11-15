@@ -81,6 +81,7 @@
 | 택배 배달과 수거하기         | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_택배배달과수거하기.java) | 그리디               |
 | 이모티콘 할인행사            | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_이모티콘할인행사.java) | 완전탐색             |
 | 마법의 엘리베이터            | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_마법의엘리베이터.java) |                      |
+| 테이블 해시 함수             | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/147354) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_테이블해시함수.java) |                      |
 
 
 
