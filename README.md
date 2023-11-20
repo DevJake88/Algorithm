@@ -84,6 +84,7 @@
 | 테이블 해시 함수             | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/147354) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_테이블해시함수.java) |                      |
 | 디펜스 게임                  | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_디펜스게임.java) | 우선순위큐           |
 | 점 찍기                      | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_점찍기.java)    |                      |
+| 귤 고르기                    | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_귤고르기.java)  |                      |
 
 
 
