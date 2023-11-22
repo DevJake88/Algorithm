@@ -86,6 +86,7 @@
 | 점 찍기                      | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_점찍기.java)    |                      |
 | 귤 고르기                    | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_귤고르기.java)  |                      |
 | 숫자 카드 나누기             | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/135807) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_숫자카드나누기.java) |                      |
+| 우박수열 정적분              | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/134239) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_우박수열정적분.java) |                      |
 
 
 
