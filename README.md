@@ -88,6 +88,7 @@
 | 숫자 카드 나누기             | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/135807) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_숫자카드나누기.java) |                      |
 | 우박수열 정적분              | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/134239) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_우박수열정적분.java) |                      |
 | 롤케이크 자르기              | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_롤케이크자르기.java) |                      |
+| 택배상자                     | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_택배상자.java)  |                      |
 
 
 
