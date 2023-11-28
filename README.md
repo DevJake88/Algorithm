@@ -90,6 +90,7 @@
 | 롤케이크 자르기              | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_롤케이크자르기.java) |                      |
 | 택배상자                     | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_택배상자.java)  |                      |
 | 연속 부분 수열 합의 개수     | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_연속부분수열합의개수.java) |                      |
+| 할인 행사                    | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_할인행사.java)  |                      |
 
 
 
