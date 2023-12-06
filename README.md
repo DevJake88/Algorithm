@@ -92,6 +92,7 @@
 | 연속 부분 수열 합의 개수     | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_연속부분수열합의개수.java) |                      |
 | 할인 행사                    | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_할인행사.java)  |                      |
 | 두 큐 합 같게 만들기         | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_두큐합같게만들기.java) |                      |
+| 주차 요금 계산               | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_주차요금계산.java) |                      |
 
 
 
