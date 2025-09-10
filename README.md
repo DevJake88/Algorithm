@@ -92,5 +92,6 @@
 | 주차 요금 계산               | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/92341)  | -                                                    | [소스코드](./src/programmers/lv2/Programmers_주차요금계산.java)             |                      |
 | k진수에서 소수 개수 구하기   | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/92335)  | -                                                    | [소스코드](./src/programmers/lv2/Programmers_K진수에서소수개수구하기.java)  |                      |
 | 피로도                       | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87946)  | -                                                    | [소스코드](./src/programmers/lv2/Programmers_피로도.java)                   |                      |
+| 서버 증설 횟수               | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/389479) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_389479.java)                   |                      |
 
 ## 이것이 취업을 위한 코딩테스트다.
