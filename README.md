@@ -94,5 +94,6 @@
 | 피로도                       | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87946)  | -                                                    | [소스코드](./src/programmers/lv2/Programmers_피로도.java)                   |                      |
 | 서버 증설 횟수               | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/389479) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_389479.java)                   |                      |
 | 지게차와 크레인              | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/388353) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_388353.java)                   |                      |
+| 비밀 코드 해독               | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/388352) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_388352.java)                   |                      |
 
 ## 이것이 취업을 위한 코딩테스트다.
