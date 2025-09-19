@@ -98,5 +98,6 @@
 | 퍼즐 게임 챌린지             | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/340212) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_340212.java)                   | 이진탐색             |
 | 석유 시추                    | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/250136) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_250136.java)                   | bfs, 캐싱            |
 | 충돌위험 찾기                | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/340211) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_340211.java)                   |                      |
+| 도넛과 막대 그래프           | lv2    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/258711) | -                                                    | [소스코드](./src/programmers/lv2/Programmers_258711.java)                   | 그래프               |
 
 ## 이것이 취업을 위한 코딩테스트다.
